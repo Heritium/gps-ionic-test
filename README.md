@@ -1,5 +1,6 @@
 # GPS Ionic Test
-Using  (with angularjs-cordova javascript library
+Tes akurasi GPS dengan Ionic library. Untuk mencari seberapa akurasi dengan koneksi perangkat
+yang terbatas.
 
 # Introduction
 Untuk Nucleons (tim inti Heritium), ini adalah deskripsi sekilas istilah dan library yang digunakan.
